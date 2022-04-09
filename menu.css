@@ -1,0 +1,43 @@
+body{
+background: url("images.jpg");
+background-size: 85%;
+background-position: center;
+}
+
+.newsgroup{
+background:rgb(181, 181, 226);
+width:50%;
+height: 140px;
+font-family: 'Comforter', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Pacifico', cursive;
+border-style: ridge;
+padding-bottom: 140px;
+}
+
+label{
+color: rgb(255, 0, 0);
+
+}
+
+#newsgroup_btn{
+background-color: rgb(50, 107, 107);
+font-family: 'Comforter'; font-family: 'Comforter', cursive;
+font-family: 'Dancing Script', cursive;
+height: 30px;
+width:40%;
+font-size: 20px;
+}
+
+.donate{
+    background:rgb(181, 181, 226);
+    width:50%;
+    height: 140px;
+    font-family: 'Comforter', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Pacifico', cursive;
+    border-style: ridge;
+    padding-bottom: 140px;
+    }

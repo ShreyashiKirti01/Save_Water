@@ -1,0 +1,53 @@
+body{
+background: url("bg-img.jpg");
+
+background-size: 85%;
+background-position:center;
+}
+
+#login{
+background: linear-gradient(rgb(15, 15, 15) 40%, rgb(71, 70, 70) 70%, white 100%);
+margin-top: 80px;
+padding-bottom: 20px;
+width: 70%;
+height: 60%;
+border-style:ridge;
+border-width:10px;
+color: whitesmoke;
+font-family: 'Comforter', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Pacifico', cursive;
+}
+
+.form-control{
+width: 60%;
+height: 50px;
+font-size: 19px;
+border-radius: 10px;
+font-family: 'Comforter', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Pacifico', cursive;
+}
+
+#login_btn{
+width: 40%;
+height: 50px;
+border-radius: 10px;
+font-size: 30px;
+}
+
+.line{
+width: 150px;
+background-color: black;
+height: 10px;
+}
+
+h1{
+    font-family: 'Comforter', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Praise', cursive;
+}
